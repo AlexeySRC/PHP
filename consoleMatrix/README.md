@@ -1,5 +1,6 @@
-//EN
+***
 Create the following pattern using nested for loops:
+```php
 ##########
 ##______##
 #_#____#_#
@@ -10,10 +11,12 @@ Create the following pattern using nested for loops:
 #_#____#_#
 ##______##
 ##########
+```
 The template has a size (n by n symbols). The size is passed as an argument through the terminal (console):
 php consoleMatrix.php 10
-//RUS
+***
 Создайте следующий шаблон с использованием вложенных циклов:
+```php
 ##########
 ##______##
 #_#____#_#
@@ -24,5 +27,6 @@ php consoleMatrix.php 10
 #_#____#_#
 ##______##
 ##########
+```
 Шаблон имеет размер (n на n символов), размер передается в качестве аргумента через терминал (консоль):
 php consoleMatrix.php 10
