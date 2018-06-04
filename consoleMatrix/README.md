@@ -12,7 +12,7 @@ Create the following pattern using nested for loops:
 ##______##
 ##########
 ```
-The template has a size (n by n symbols). The size is passed as an argument through the terminal (console):
+The template has a size (n by n symbols). The size is passed as an argument through the terminal (console):<br/>
 php consoleMatrix.php 10
 ***
 Создайте следующий шаблон с использованием вложенных циклов:
@@ -28,5 +28,5 @@ php consoleMatrix.php 10
 ##______##
 ##########
 ```
-Шаблон имеет размер (n на n символов), размер передается в качестве аргумента через терминал (консоль):
+Шаблон имеет размер (n на n символов), размер передается в качестве аргумента через терминал (консоль):<br/>
 php consoleMatrix.php 10
